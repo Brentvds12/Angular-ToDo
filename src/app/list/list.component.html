@@ -1,0 +1,3 @@
+<article *ngIf="list">
+  <app-list-item *ngFor="let listItem of (listItems$ | async)" [listItem]="listItem"></app-list-item>
+</article>

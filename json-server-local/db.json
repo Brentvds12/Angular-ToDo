@@ -1,0 +1,34 @@
+{
+  "lists":[
+    {
+      "id": 1,
+      "listitems": [1, 2]
+    },
+    {
+      "id": 2,
+      "listitems": [3, 4]
+    }
+  ],
+  "listItems":[
+    {
+      "id": 1,
+      "description": "test1",
+      "isdone": false
+    },
+    {
+      "id": 2,
+      "description": "test2",
+      "isdone": true
+    },
+    {
+      "id": 3,
+      "description": "test3",
+      "isdone": true
+    },
+    {
+      "id": 4,
+      "description": "test4",
+      "isdone": false
+    }
+  ]
+}
